@@ -1,0 +1,1 @@
+This module provides a simple yet powerful utility function for generating random IDs. The randomID function generates a string of characters of a specified length, which can be used as unique identifiers in various applications.
